@@ -1,0 +1,19 @@
+{
+  "name": "angularjs-crypto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/gibrankasif/angularjs-crypto.git",
+  "author": "gibrankasif <gibran@vetstoria.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gibrankasif/angularjs-crypto/issues"
+  },
+  "homepage": "https://github.com/gibrankasif/angularjs-crypto#readme",
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  }
+}
